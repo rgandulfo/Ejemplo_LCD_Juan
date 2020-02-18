@@ -1,0 +1,7 @@
+comandos para pegar en el terminal
+
+menu.next_screen()
+menu.previous_screen()
+menu.switch_focus()
+menu.call_function(1)
+menu.set_focusPosition(Position::LEFT)
